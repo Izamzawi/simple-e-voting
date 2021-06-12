@@ -1,6 +1,6 @@
 The application is a simple e-voting web app built with PHP. The front-end side uses Bootstrap 4, and the database utilizes relational database (MySQL and PostgreSQL, different branch).
 
-The application is accessible at https://simple-e-voting.herokuapp.com/:
+The application is accessible at https://simple-e-voting.herokuapp.com/.
 
 ## How to use
 On the landing page, there is a button for `vote` for registered voters. Before proceed to vote, voters can look over the candidates below the `vote` button.
